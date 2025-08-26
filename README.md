@@ -31,12 +31,14 @@ diabetes-prediction-ml/
    cd diabetes-prediction-ml
 2. Install the required dependencies:
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
+
 
 
 3. Run the application:
 
-streamlit run app.py
+   streamlit run app.py
+
 
 📊 Dataset
 
