@@ -71,7 +71,8 @@ This project can be deployed easily using Streamlit Cloud, allowing you to share
 
 ## 📸 Demo Screenshot
 
-Screenshot 2025-08-26 231325.png
+![App Screenshot](Screenshot%202025-08-26%20231325.png)
+
 
 ## 👨‍💻 Author
 
