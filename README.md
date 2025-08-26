@@ -71,7 +71,7 @@ This project can be deployed easily using Streamlit Cloud, allowing you to share
 
 ## 📸 Demo Screenshot
 
-"C:\Users\dell\OneDrive\画像\Screenshots\Screenshot 2025-08-26 231325.png"
+Screenshot 2025-08-26 231325.png
 
 ## 👨‍💻 Author
 
