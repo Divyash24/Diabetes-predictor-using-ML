@@ -16,11 +16,17 @@ It combines **Python, Scikit-learn, and Streamlit** to deliver accurate predicti
 ## 📂 Project Structure
 
 diabetes-prediction-ml/
+
 │-- data/ # Dataset files
+
 │-- train_model.py # Script to train the ML model
+
 │-- app.py # Streamlit web application
+
 │-- requirements.txt # Dependencies
+
 │-- README.md # Project documentation
+
 
 ---
 
@@ -41,7 +47,7 @@ diabetes-prediction-ml/
    streamlit run app.py
 
 
-📊 ## Dataset
+## 📊 Dataset
 
 The model is trained on the Pima Indians Diabetes Dataset, which contains medical records such as:
 
@@ -59,15 +65,15 @@ Number of pregnancies
 
 These features help in predicting whether a person is likely to have diabetes.
 
-🌐 ## Deployment
+## 🌐 Deployment
 
 This project can be deployed easily using Streamlit Cloud, allowing you to share the app online.
 
-📸 ## Demo Screenshot
+## 📸 Demo Screenshot
 
 (Add a screenshot of your Streamlit app interface here)
 
-👨‍💻 ## Author
+## 👨‍💻 Author
 
 Divyash Saxena
 
